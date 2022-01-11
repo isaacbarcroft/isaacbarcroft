@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning Node.js, Solidity / Hardhat -- NFT
+- 🌱 I’m currently learning Node.js, Typescript 
 - 📫 How to reach me: isaacbarcroft@gmail.com
 
 
