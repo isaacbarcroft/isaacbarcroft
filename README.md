@@ -1,8 +1,8 @@
  Hi, I'm ISAAC
 
 
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning Node.js, Typescript 
+- 👨‍💻 I work for My Well Ministry 
+- 🌱 I’m currently learning Next.js, Typescript 
 - 📫 How to reach me: isaacbarcroft@gmail.com
 
 
