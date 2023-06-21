@@ -9,4 +9,4 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=isaacbarcroft&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=isaacbarcroft&theme=vue-dark&hide_border=true&sideNums=FF6EC7&border=1BE7FF&stroke=1BE7FF&fire=FF6EC7&ring=FF6EC7&currStreakNum=1BE7FF&currStreakLabel=1BE7FF&background=000000&sideLabels=1BE7FF&dates=1BE7FF)](https://git.io/streak-stats)
