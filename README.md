@@ -7,3 +7,6 @@
 - 📫 How to reach me: isaacbarcroft@gmail.com
 
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=isaacbarcroft&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
