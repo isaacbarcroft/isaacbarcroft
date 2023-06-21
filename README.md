@@ -13,4 +13,4 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=isaacbarcroft)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=isaacbarcroft&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
