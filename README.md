@@ -1,4 +1,4 @@
- Hi, I'm ISAAC
+ Hi, I'm Isaac
 
 - 🏠 I am located in Greenville, SC
 - 👨‍💻 I am a fullstack engineer at My Well Ministry - https://www.mywell.org/
