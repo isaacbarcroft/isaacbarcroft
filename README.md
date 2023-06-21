@@ -9,7 +9,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=isaacbarcroft&theme=vue-dark&hide_border=true&sideNums=FF6EC7&border=1BE7FF&stroke=1BE7FF&fire=FF6EC7&ring=FF6EC7&currStreakNum=1BE7FF&currStreakLabel=1BE7FF&background=000000&sideLabels=1BE7FF&dates=1BE7FF)](https://git.io/streak-stats)         
+[![GitHub Streak](https://streak-stats.demolab.com?user=isaacbarcroft&theme=vue-dark&hide_border=true&sideNums=F890E7&border=0BD3D3&stroke=0BD3D3&fire=FFFFFF&ring=F890E7&currStreakNum=0BD3D3&currStreakLabel=0BD3D3&background=000000&sideLabels=0BD3D3&dates=0BD3D3)](https://git.io/streak-stats)       
 [![trophy](https://github-profile-trophy.vercel.app/?username=isaacbarcroft&theme=dracula&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
