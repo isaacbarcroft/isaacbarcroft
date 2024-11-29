@@ -1,9 +1,7 @@
  Hi, I'm Isaac
 
 - 🏠 I am located in Greenville, SC
-- 👨‍💻 I am a fullstack engineer at My Well Ministry - https://www.mywell.org/
-- 🖱️ My stack includes: Typescript, React, React Native, Node.js, Next, Graphql 
-- 🌱 I’m currently learning: GO & AWS
+- 👨‍💻 Tabbi - https://www.tabbi.app/
 - 📫 How to reach me: isaacbarcroft@gmail.com
 - 👷‍♂️ Check out what I'm building - https://isaacbarcroft.com/
 
