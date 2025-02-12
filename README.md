@@ -1,10 +1,7 @@
- Hi, I'm Isaac
-
-- 🏠 I am located in Greenville, SC
-- 👨‍💻 Tabbi - https://www.tabbi.app/
-- 📫 How to reach me: isaacbarcroft@gmail.com
-- 👷‍♂️ Check out what I'm building - https://isaacbarcroft.com/
-
+Isaac
+Greenville, SC
+https://www.tabbi.app/
+isaacbarcroft@gmail.com
 
 
 
