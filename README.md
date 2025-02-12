@@ -1,7 +1,7 @@
-Isaac
-Greenville, SC
-https://www.tabbi.app/
-isaacbarcroft@gmail.com
+Isaac 
+Greenville, SC 
+https://www.tabbi.app/ 
+isaacbarcroft@gmail.com 
 
 
 
